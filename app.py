@@ -89,7 +89,7 @@ def initialize_gemini():
     - Berikan produk yang ada di daftar katalog saja.
     - Jika ditanya harga: berikan harga tertera.
     - Jika ditanya stok: jawab bahwa stok biasanya tersedia, tapi harus dicek.
-    - Jangan gunakan tanda bintang (*), bold (** **)
+    - Jangan gunakan tanda bintang (*), bold (** **).
     - Selalu tawarkan bantuan di akhir chat.
     """
 
