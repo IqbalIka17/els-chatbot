@@ -37,21 +37,14 @@ PENGIRIMAN:
 TIKI, SICEPAT, J&T EXPRESS, JNE EXPRESS, GOSEND
 
 PRODUK APPLE:
-1. Macbook Air 13 (16GB/256GB) Chip M2
-Apple M2 (CPU 8-Cores GPU 8-Cores) | 16GB | SSD 256GB NVMe | 13.6" QHD Retina Display With True Tone 
-500 Nit | KB Backlight | Magic Keyboard w/ Touch ID | Wifi 6 | 1080P Facetime HDCamera | Two Thunderbolt | 
-Force Touch Trackpad | Mac OS - Garansi Resmi
-Rp12.999.000
-
-
-2. Macbook Air 13 (16GB/256GB) Chip M4
+1. Macbook Air 13 (16GB/256GB) Chip M4
 Apple M4 (CPU 10-Core, GPU 8-Core) | 16GB | SSD 256GB NVMe | 13,6" QHD Retina Display With True Tone 
 500 Nit | KB Backlight | Magic Keyboard w/ Touch ID | Wifi 6E | 1080P Facetime HDCamera | 
 Two Thunderbolt | Force Touch Trackpad | Mac OS - Garansi Resmi
 • FITUR AI • With battery life of up to 18 hours
 Rp15.999.000
 
-3. Macbook Air 13 (16GB/512GB) Chip M4
+2. Macbook Air 13 (16GB/512GB) Chip M4
 Apple M4 (CPU 10-Core, GPU 10-Core) | 16GB | SSD 512GB NVMe | 13,6" QHD Retina Display With True Tone 
 500 Nit | KB Backlight | Magic Keyboard w/ Touch ID | Wifi 6E | 1080P Facetime HDCamera | 
 Two Thunderbolt | Force Touch Trackpad | Mac OS - Garansi Resmi
@@ -481,14 +474,7 @@ AMD Ryzen AI 9 365 Up To 5,0Ghz 10 Core 20 Threads (73 AI TOPS) | 16GB DDR5 (2x8
 W11 + Office Home 2024 + M365 Basic
 Rp25.499.000
 
-19. ACER GAMING Nitro 16s ANV16S-41-R70Y Black
-OHS (RTX 5060) (SLIM DESIGN)
-AMD Octa Core Ryzen 7 260 Up To 5,1Ghz 8 Core 16 Threads (38 AI TOPS) | 16GB DDR5 (↑32GB) | SSD 512GB NVMe (↑1TB) | 
-16" WQXGA (2560×1600) IPS 100% sRGB 180Hz | RTX 5060 8GB (572 AI TOPS) | KB Backlight RGB | Numeric Pad | Wifi 6 | 
-W11 + Office Home 2024 + M365 Basic 
-Rp20.999.000
-
-20. ACER GAMING Nitro 16s AN16S-61-R2UG Black
+19. ACER GAMING Nitro 16s AN16S-61-R2UG Black
 OHS (Gen 14) (RTX 5070) (SLIM DESIGN)
 AMD Ryzen AI 9 365 Up To 5,0Ghz 10 Core 20 Threads (73 AI TOPS) | 16GB DDR5 (↑32GB) | SSD 512GB NVMe (↑1TB) | 
 16" WQXGA (2560×1600) IPS 100% sRGB 180Hz | RTX 5070 8GB (798 AI TOPS) | KB Backlight RGB | Numeric Pad | Wifi 6 | 
@@ -607,33 +593,14 @@ Arc Graphics 140V | KB Backlight | Wifi 7 | W11 + Office Home 2024 + M365 Basic 
 > Stereo speakers, 5.0MP + IR with E-shutter > Microphone 4x, Array > Starting at 1.28 kg
 Rp20.999.000
 
-13. LENOVO YOGA PRO 7 14IAH10 27ID Luna Grey
-OHS (Touch) (OLED DISPLAY) (Aura Edition )
-Core™ Ultra 9 285H (Intel EVO) Up To 5,4Ghz 16 Cores 16 Threads | 32GB LPDDR5x-8533 Mhz | 
-SSD 1TB NVMe Gen 4 | 14.5" 3K (3000x1876) OLED 1000nits (peak) / 500nits (typical) Glossy / Anti-fingerprint, 100% DCI-P3, 
-120Hz, Eyesafe®, Dolby Vision®, DisplayHDR™ True Black 1000, Glass X-Rite®, PureSight Pro.TouchScreen | 
-Integrated Intel® Arc™ 140T | KB Backlight | Wi-Fi® 7 | W11 + Office Home 2024 + M365 Basic - Sleeve - 3Y Premium Care 
-> Starting at 1.54 kg > 5.0MP + IR with E-shutter > Battery 84Wh > Microphone 4x, Array
-> 2x USB-C® (Thunderbolt™ 4 / USB4® 40Gbps), with USB PD 3.0 and DisplayPort™ 2.1
-> 4 stereo speakers, 2W x2 (woofers), 2W x2 (tweeters), optimized with Dolby Atmos®, Smart Amplifier (AMP)
-Rp21.999.000
-
-14. LENOVO LOQ 15IRX9-6PID Luna Grey
+13. LENOVO LOQ 15IRX9-6PID Luna Grey
 OHS (GAMING) (RTX 4050)
 Core i7-13650HX Up To 4,9Ghz 14 Core 20 Threads | 12GB DDR5 (↑24GB) | SSD 512GB NVMe Gen 4 (↑1TB)
 15.6" FHD IPS 100% sRGB, 144Hz, G-SYNC® | RTX 4050 6GB (194 AI TOPS) | KB Backlight RGB | Numeric Pad | 
 W11 + Office Home 2024 + Microsoft® 365 Basic 
 Rp16.099.000
 
-15. LENOVO LEGION 5 15IRX10-E9ID Eclipse Black
-OHS (GAMING) (RTX 5050) 
-Core i7-13650HX Up To 4,9Ghz 14 Core 20 Threads | 16GB DDR5 (↑32GB) | SSD 512GB NVMe Gen 4 (↑1TB) | 
-15.3" WUXGA (1920x1200) IPS 300nits Anti-glare, 100% sRGB, 165Hz, Dolby Vision®, G-SYNC® | 
-RTX 5050 8GB (440 AI TOPS) | KB Backlight | Numeric Pad | Wi-Fi® 6 | 
-W11 + Office Home 2024 + Microsoft® 365 Basic 
-Rp20.499.000
-
-16. LENOVO LEGION 5 15IAX10-65ID Eclipse Black
+14. LENOVO LEGION 5 15IAX10-65ID Eclipse Black
 OHS (GAMING) (RTX 5060) (OLED DISPLAY)
 Ultra 7 255HX Up To 5,2Ghz 20 Core 20 Threads (33 AI TOPS) | 32GB DDR5 (2x16) | SSD 512GB NVMe Gen 4 (↑1TB) | 
 15.1" WQXGA (2560x1600) OLED 1000nits (peak) / 500nits (typical) glossy, 100% DCI-P3, 165Hz, Dolby Vision®, 
@@ -641,7 +608,7 @@ DisplayHDR™ True Black 600 | RTX 5060 8GB (572 AI TOPS) | KB Backlight RGB | N
 W11 + Office Home 2024 + Microsoft® 365 Basic -
 Rp27.499.000
 
-17. LENOVO LEGION PRO 5 16IAX10-39ID Eclipse Black
+15. LENOVO LEGION PRO 5 16IAX10-39ID Eclipse Black
 OHS (GAMING) (RTX 5070) (OLED DISPLAY)
 Ultra 7 255HX Up To 5,2Ghz 20 Core 20 Threads (33 AI TOPS) | 32GB DDR5 (2x16GB) | 
 SSD 1TB NVMe Gen 4 | 16" WQXGA OLED 500nits Glossy, 100% DCI-P3, 165Hz, DisplayHDR™ True Black 1000, 
@@ -651,17 +618,7 @@ KB Backlight RGB | Numeric Pad | Wi-Fi® 7 | W11 + Office Home 2024 + Microsoft�
 > 5.0MP with E-shutter > Battery 80Wh > Lenovo® AI Now
 Rp33.499.000
 
-18. LENOVO LEGION 7 16IAX10-4EID Glacier White
-OHS (GAMING) (RTX 5070) (OLED DISPLAY)
-Ultra 9 275HX Up To 4,9Ghz 24 Core 24 Threads (36 AI TOPS) | 32GB DDR5 (2x16GB) | 
-SSD 1TB NVMe Gen 4 | 16" WQXGA (2560x1600) OLED 500nits (Typical) / 1100nits (Peak) Glossy, 100% DCI-P3, 165Hz, 
-DisplayHDR™ True Black 1000, Dolby Vision®, G-SYNC®, Low Blue Light, High Gaming Performance, Flicker Free | 
-RTX 5070 8GB (798 AI TOPS) | KB Backlight RGB | Wi-Fi® 7 | W11 + Office Home 2024 + Microsoft® 365 Basic - Tas - 
-3Y Legion Ultimate > Stereo speakers, 2W x2, audio by HARMAN, optimized with Nahimic Audio, Smart (AMP)
-> 5.0MP + IR with E-shutter > Battery 80Wh > Lenovo® AI Now > Battery 84Wh
-Rp38.499.000
-
-19. LENOVO IdeaPad SLIM 5-13ARP10 3VID Grey
+16. LENOVO IdeaPad SLIM 5-13ARP10 3VID Grey
 Graphic OHS (PROCESSOR H SERIES)
 (LAYAR 13inch)
 AMD Octa Core Ryzen 7 7735HS Up To 4,5Ghz 8 Core 16 Threads | 16GB LPDDR5x-6400 |
@@ -671,7 +628,7 @@ SSD 512GB NVMe Gen 4 (↑1TB) | 13.3" WUXGA (1920x1200) IPS 400nits AnƟ-glare, 
 > Light Weight 1.15 kg 
 Rp11.999.000
 
-20. LENOVO IdeaPad SLIM 5-14AKP10 AYID Grey|B1ID Blue
+17. LENOVO IdeaPad SLIM 5-14AKP10 AYID Grey|B1ID Blue
 Graphic OHS (OLED DISPLAY)
 AMD Octa Core Ryzen AI 7 350 Up To 5 Ghz 8 Core 16 Threads (50 AI TOPS) | 16GB DDR5 (2x8) (↑32GB) |
 SSD 512GB NVMe Gen 4 (↑1TB) | 14" WUXGA (1920x1200) OLED 400nits Glossy, 100% DCI-P3, DisplayHDR™ True Black 500 
@@ -679,21 +636,14 @@ SSD 512GB NVMe Gen 4 (↑1TB) | 14" WUXGA (1920x1200) OLED 400nits Glossy, 100% 
 > FHD 1080p + IR with Privacy Shutter, ToF Sensor > Stereo speakers, 2W x2, optimized with Dolby Audio™ 
 Rp13.299.000
 
-21. LENOVO LOQ 15AHP10-73ID Grey
-OHS (GAMING) (RTX 5050)
-AMD Hexa Core Ryzen 5 220 Up To 4,9 Ghz 6 Core 12 Threads | 16GB DDR5 (↑32GB) | SSD 512GB NVMe Gen 4 (↑1TB)
-15.6" FHD IPS 300nits Anti-glare, 100% sRGB, 144Hz, G-SYNC | RTX 5050 8GB (440 AI TOPS) | KB Backlight RGB | Wifi 6
-Numeric Pad | W11 + Office Home 2024 + Microsoft® 365 Basic 
-Rp17.199.000
-
-22. LENOVO LOQ 15AHP10-74ID Grey
+18. LENOVO LOQ 15AHP10-74ID Grey
 OHS (GAMING) (RTX 5050)
 AMD Octa Core Ryzen 7 250 Up To 5,1 Ghz 8 Core 16 Threads | 16GB DDR5 (↑32GB) | SSD 512GB NVMe Gen 4 (↑1TB)
 15.6" FHD IPS 300nits Anti-glare, 100% sRGB, 144Hz, G-SYNC | RTX 5050 8GB (440 AI TOPS) | KB Backlight RGB | Wifi 6
 Numeric Pad | W11 + Office Home 2024 + Microsoft® 365 Basic 
 Rp18.999.000
 
-23. LENOVO LEGION PRO 5 16ADR10-15ID Eclipse Black
+19. LENOVO LEGION PRO 5 16ADR10-15ID Eclipse Black
 OHS (GAMING) (RTX 5060) (OLED DISPLAY)
 AMD Octa Core Ryzen 7 8745HX Up To 5,1 Ghz 8 Core 16 Threads | 24GB DDR5 | SSD 1TB NVMe Gen 4 | 
 16" WQXGA (2560x1600) OLED 500nits Glossy, 100% DCI-P3, 165Hz, DisplayHDR™ True Black 1000, Dolby Vision®, G-SYNC®, 
@@ -704,42 +654,28 @@ Numeric Pad | Wi-Fi® 7 | W11 + Office Home 2024 + Microsoft® 365 Basic - Tas -
 Rp25.499.000
 
 LAPTOP HP:
-1. HP 14-EP0611TU
-Silver
-OHS 
-Core i5-1334U Up To 4,6Ghz 10 Core 12 Threads | 16GB DDR4 (2x8) | SSD 512GB NVMe (↑1TB)
-14" FHD | Intel Iris Xe | KB Backlight | W11 + Office Home 2024 + M365 Basic
-> Webcam 1080 FHD
-Rp9.249.000
-
-2. HP 14-EP1155TU
-Silver OHS
-Core 5 120U Up To 5 Ghz 10 Core 12 Threads | 16GB DDR4 (2x8) | SSD 512GB NVMe (↑1TB)
-14" FHD | Intel Graphics | KB Backlight | Fingerprint | W11 + Office Home 2024 + M365 Basic
-Rp9.249.000
-
-3. HP 14-EP1225TU
+1. HP 14-EP1225TU
 Silver 
 OHS (PROCESSOR H SERIES)
 Core Ultra 7 155H Up To 4,9Ghz 16 Cores 22 Threads | 16GB DDR5 | SSD 512GB NVMe (↑1TB)
 14" FHD IPS | Intel Arc Graphics | KB Backlight | Copilot | W11 + Office Home 2024 + M365 Basic
 Rp11.999.000
 
-4. HP Omnibook 5 AI 16-AF1555TU
+2. HP Omnibook 5 AI 16-AF1555TU
 Silver OHS 
 Core™ Ultra 5 225U Up To 4,8Ghz 12 Cores 14 Threads | 16GB LPDDR5 7467Mhz | SSD 1TB NVMe Gen 4
 16" WUXGA (1920x1200) IPS 300 nits | Intel Graphics | KB Backlight |
 W11 + Office Home 2024 + M365 Basic
 Rp14.299.000
 
-5. HP Omnibook 7 AI 14-FR0777TU
+3. HP Omnibook 7 AI 14-FR0777TU
 Silver OHS 
 Core Ultra 7 255H Up To 5,1Ghz 16 Core 16 Threads (96 AI TOPS) | 32GB LPDDR5 7467Mhz | SSD 1TB NVMe Gen 4
 14" 2.2K (2240x1400) IPS 300 nits | Intel Arc 140T GPU | KB Backlight | Wifi 7 
 W11 + Office Home 2024 + M365 Basic
 Rp18.499.000
 
-6. HP Victus GAMING 15-FA2145TX
+4. HP Victus GAMING 15-FA2145TX
 Silver OHS (RTX 5050)
 Core i5-13420H Up To 4,6Ghz 8 Core 12 Threads | 24GB DDR5 | SSD 512GB NVMe Gen 4 (↑1TB) | 
 15,6" FHD IPS 144hz | RTX 5050 8GB (440 AI TOPS) | KB Backlight | Numeric Pad | 
@@ -748,7 +684,7 @@ W11 + Office Home 2024 + M365 Basic > micro-edge, anti-glare > Audio by Bang & O
 > SuperSpeed USB Type-C® 5Gbps signaling rate (DisplayPort™ 1.4 HP Sleep and Charge)
 Rp17.999.000
 
-7. HP Victus GAMING 15-FA2785TX
+5. HP Victus GAMING 15-FA2785TX
 Silver OHS (RTX 5050)
 Core i7-13620H Up To 4,9Ghz 10 Core 16 Threads | 24GB DDR5 | SSD 512GB NVMe Gen 4 (↑1TB) | 
 15,6" FHD IPS 144hz | RTX 5050 8GB (440 AI TOPS) | KB Backlight | Numeric Pad | 
@@ -757,14 +693,14 @@ W11 + Office Home 2024 + M365 Basic > micro-edge, anti-glare > Audio by Bang & O
 > SuperSpeed USB Type-C® 5Gbps signaling rate (DisplayPort™ 1.4 HP Sleep and Charge)
 Rp19.499.000
 
-8. HP 14-EM0530|31AU
+6. HP 14-EM0530|31AU
 Silver|Gold
 Graphic OHS 
 AMD Octa Core Ryzen 7 7730U Up to 4,5ghz 8 Core 16 Threads | 16GB DDR4 (2x8) | SSD 512GB NVMe (↑1TB) | 
 14" FHD | Radeon Graphic | KB Backlight | W11 + Office Home 2024 + M365 Basic > FHD Webcam
 Rp9.299.000
 
-9. HP OmniBook 3 14-HA0336AU
+7. HP OmniBook 3 14-HA0336AU
 Silver
 Graphic OHS 
 AMD hexa Core Ryzen 5 8640U Up To 4,9Ghz 6 Core 12 Threads (31 AI TOPS) | 16GB LPDDR5X | SSD 512GB NVMe Gen 4 | 
@@ -773,7 +709,7 @@ W11 + Office Home & Student 2021
 > micro-edge > Audio by Bang & Olufsen > 5MP IR camera > Light Weight < 1 kg
 Rp12.649.000
 
-10. HP Omnibook 3 14-HA0435AU
+8. HP Omnibook 3 14-HA0435AU
 Silver Graphic OHS 
 AMD Octa Core Ryzen AI 7 350 Up To 5 Ghz 8 Core 16 Threads (66 AI TOPS) | 16GB LPDDR5X 7500Mhz | 
 SSD 512GB NVMe Gen 4 | 14" FHD IPS | AMD Radeon™ 860M | KB Backlight | Fingerprint | Wifi 6 | 
@@ -781,7 +717,7 @@ W11 + Office Home & Student 2024 + M365 Basic
 > Battery life up to 12 hours > HP True Vision 1080p FHD camera 
 Rp12.999.000
 
-11. HP OmniBook 7 AERO 13-BG1666|7AU
+9. HP OmniBook 7 AERO 13-BG1666|7AU
 Silver|White Graphic OHS
 AMD Hexa Core Ryzen AI 5 340 Up To 4,8Ghz 6 Core 12 Threads (59 AI TOPS) | 16GB LPDDR5 7500Mhz | 
 SSD 512GB NVMe Gen 4 (↑1TB) | 13.3" WUXGA (1920x1200) AnƟglare IPS 400 nits | Radeon Graphic 840M | KB Backlight | 
@@ -789,7 +725,7 @@ Wifi 6 | W11 + Office Home 2024 + M365 Basic
 > 43WHr Fast Charge > 65 Watt USB C > 5MP Infra Red > Lightweight = less than 1 kg
 Rp13.999.000
 
-12. HP OmniBook 7 AERO 13-BG1777|8AU
+10. HP OmniBook 7 AERO 13-BG1777|8AU
 Silver|White Graphic OHS 
 AMD Octa Core Ryzen AI 7 350 Up To 5 Ghz 8 Core 16 Threads (66 AI TOPS) | 16GB LPDDR5 7500Mhz | 
 SSD 512GB NVMe Gen 4 (↑1TB) | 13.3" WQXGA (2560x1600) Antiglare IPS 400 nits | Radeon Graphic 860M | KB Backlight | 
@@ -797,37 +733,23 @@ Wifi 6 | W11 + Office Home 2024 + M365 Basic
 > 43WHr Fast Charge > 65 Watt USB C > 5MP Infra Red > Lightweight = less than 1 kg
 Rp15.699.000
 
-13. HP Victus GAMING 15-FB3150AX
+11. HP Victus GAMING 15-FB3150AX
 Silver OHS (RTX 5050)
 AMD Hexa Core Ryzen 5 240 Up To 5Ghz 6 Core 12 Threads | 16GB DDR5 (↑32GB) | SSD 512GB NVMe Gen 4 | 
 15,6" FHD IPS 144hz | RTX 5050 8GB (440 AI TOPS) | KB Backlight | Numeric Pad | Wifi 6 | 
 W11 + Office Home 2024 + M365 Basic 
 Rp17.499.000
 
-14. HP Victus GAMING 15-FB3888AX
+12. HP Victus GAMING 15-FB3888AX
 Silver OHS (RTX 5060)
 AMD Hexa Core Ryzen AI 5 340 Up To 4,8Ghz 6 Core 12 Threads (59 AI TOPS) | 16GB DDR5 (↑32GB) | SSD 1TB NVMe Gen 4 | 
 15,6" FHD IPS 144hz | RTX 5060 8GB (572 AI TOPS) | KB Backlight | Numeric Pad | Wifi 6 | 
 W11 + Office Home 2024 + M365 Basic
 Rp19.499.000
 
-15. HP OMEN GAMING 16-AP0776AX
+13. HP OMEN GAMING 16-AP0776AX
 Black OHS (RTX 5060)
 AMD Octa Core Ryzen AI 7 350 Up To 5 Ghz 8 Core 16 Threads (66 AI TOPS) | 16GB DDR5 (↑32GB) | SSD 1TB NVMe Gen 4 | 
 16" WUXGA IPS 165Hz 400 nits | RTX 5060 8GB (572 AI TOPS) | KB Backlight | Numeric Pad | Wifi 6 | 
 W11 + Office Home 2024 + M365 Basic 
 Rp25.499.000
-
-16. HP OMEN GAMING 16-AP0999AX
-Black OHS (RTX 5060)
-AMD Octa Core Ryzen 9 8940HX Up To 5,3Ghz 16 Core 32 Threads | 24GB DDR5 | SSD 1TB NVMe Gen 4 | 
-16" WUXGA IPS 165Hz 400 nits | RTX 5060 8GB (572 AI TOPS) | KB Backlight RGB | Numeric Pad | Wifi 6 | 
-W11 + Office Home 2024 + M365 Basic 
-Rp25.499.000
-
-17. HP OMEN GAMING 16-AP0169AX
-Black OHS (RTX 5070)
-AMD Octa Core Ryzen 9 8940HX Up To 5,3Ghz 16 Core 32 Threads | 24GB DDR5 | SSD 1TB NVMe Gen 4 | 
-16" QHD (2560x1600) IPS VRR 240Hz 500 nits | RTX 5070 8GB (798 AI TOPS) | KB Backlight RGB | Numeric Pad | Wifi 6 | 
-W11 + Office Home 2024 + M365 Basic
-Rp28.499.000
