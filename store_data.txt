@@ -618,21 +618,14 @@ Integrated Intel® Arc™ 140T | KB Backlight | Wi-Fi® 7 | W11 + Office Home 20
 > 4 stereo speakers, 2W x2 (woofers), 2W x2 (tweeters), optimized with Dolby Atmos®, Smart Amplifier (AMP)
 Rp21.999.000
 
-14. LENOVO LOQ 15IRX9-ASID Luna Grey
-OHS (GAMING) (RTX 3050)
-Core i5-13450HX Up To 4,6Ghz 10 Core 16 Threads | 16GB DDR5 (↑32GB) | SSD 512GB NVMe Gen 4 (↑1TB) | 
-15.6" FHD IPS 100% sRGB, 144Hz, G-SYNC® | RTX 3050 6GB | KB Backlight RGB | Numeric Pad |
-W11 + Office Home 2024 + Microsoft® 365 Basic 
-Rp13.499.000
-
-15. LENOVO LOQ 15IRX9-6PID Luna Grey
+14. LENOVO LOQ 15IRX9-6PID Luna Grey
 OHS (GAMING) (RTX 4050)
 Core i7-13650HX Up To 4,9Ghz 14 Core 20 Threads | 12GB DDR5 (↑24GB) | SSD 512GB NVMe Gen 4 (↑1TB)
 15.6" FHD IPS 100% sRGB, 144Hz, G-SYNC® | RTX 4050 6GB (194 AI TOPS) | KB Backlight RGB | Numeric Pad | 
 W11 + Office Home 2024 + Microsoft® 365 Basic 
 Rp16.099.000
 
-16. LENOVO LEGION 5 15IRX10-E9ID Eclipse Black
+15. LENOVO LEGION 5 15IRX10-E9ID Eclipse Black
 OHS (GAMING) (RTX 5050) 
 Core i7-13650HX Up To 4,9Ghz 14 Core 20 Threads | 16GB DDR5 (↑32GB) | SSD 512GB NVMe Gen 4 (↑1TB) | 
 15.3" WUXGA (1920x1200) IPS 300nits Anti-glare, 100% sRGB, 165Hz, Dolby Vision®, G-SYNC® | 
@@ -640,7 +633,7 @@ RTX 5050 8GB (440 AI TOPS) | KB Backlight | Numeric Pad | Wi-Fi® 6 |
 W11 + Office Home 2024 + Microsoft® 365 Basic 
 Rp20.499.000
 
-17. LENOVO LEGION 5 15IAX10-65ID Eclipse Black
+16. LENOVO LEGION 5 15IAX10-65ID Eclipse Black
 OHS (GAMING) (RTX 5060) (OLED DISPLAY)
 Ultra 7 255HX Up To 5,2Ghz 20 Core 20 Threads (33 AI TOPS) | 32GB DDR5 (2x16) | SSD 512GB NVMe Gen 4 (↑1TB) | 
 15.1" WQXGA (2560x1600) OLED 1000nits (peak) / 500nits (typical) glossy, 100% DCI-P3, 165Hz, Dolby Vision®, 
@@ -648,7 +641,7 @@ DisplayHDR™ True Black 600 | RTX 5060 8GB (572 AI TOPS) | KB Backlight RGB | N
 W11 + Office Home 2024 + Microsoft® 365 Basic -
 Rp27.499.000
 
-18. LENOVO LEGION PRO 5 16IAX10-39ID Eclipse Black
+17. LENOVO LEGION PRO 5 16IAX10-39ID Eclipse Black
 OHS (GAMING) (RTX 5070) (OLED DISPLAY)
 Ultra 7 255HX Up To 5,2Ghz 20 Core 20 Threads (33 AI TOPS) | 32GB DDR5 (2x16GB) | 
 SSD 1TB NVMe Gen 4 | 16" WQXGA OLED 500nits Glossy, 100% DCI-P3, 165Hz, DisplayHDR™ True Black 1000, 
@@ -658,7 +651,7 @@ KB Backlight RGB | Numeric Pad | Wi-Fi® 7 | W11 + Office Home 2024 + Microsoft�
 > 5.0MP with E-shutter > Battery 80Wh > Lenovo® AI Now
 Rp33.499.000
 
-19. LENOVO LEGION 7 16IAX10-4EID Glacier White
+18. LENOVO LEGION 7 16IAX10-4EID Glacier White
 OHS (GAMING) (RTX 5070) (OLED DISPLAY)
 Ultra 9 275HX Up To 4,9Ghz 24 Core 24 Threads (36 AI TOPS) | 32GB DDR5 (2x16GB) | 
 SSD 1TB NVMe Gen 4 | 16" WQXGA (2560x1600) OLED 500nits (Typical) / 1100nits (Peak) Glossy, 100% DCI-P3, 165Hz, 
@@ -668,7 +661,7 @@ RTX 5070 8GB (798 AI TOPS) | KB Backlight RGB | Wi-Fi® 7 | W11 + Office Home 20
 > 5.0MP + IR with E-shutter > Battery 80Wh > Lenovo® AI Now > Battery 84Wh
 Rp38.499.000
 
-20. LENOVO IdeaPad SLIM 5-13ARP10 3VID Grey
+19. LENOVO IdeaPad SLIM 5-13ARP10 3VID Grey
 Graphic OHS (PROCESSOR H SERIES)
 (LAYAR 13inch)
 AMD Octa Core Ryzen 7 7735HS Up To 4,5Ghz 8 Core 16 Threads | 16GB LPDDR5x-6400 |
@@ -678,7 +671,7 @@ SSD 512GB NVMe Gen 4 (↑1TB) | 13.3" WUXGA (1920x1200) IPS 400nits AnƟ-glare, 
 > Light Weight 1.15 kg 
 Rp11.999.000
 
-21. LENOVO IdeaPad SLIM 5-14AKP10 AYID Grey|B1ID Blue
+20. LENOVO IdeaPad SLIM 5-14AKP10 AYID Grey|B1ID Blue
 Graphic OHS (OLED DISPLAY)
 AMD Octa Core Ryzen AI 7 350 Up To 5 Ghz 8 Core 16 Threads (50 AI TOPS) | 16GB DDR5 (2x8) (↑32GB) |
 SSD 512GB NVMe Gen 4 (↑1TB) | 14" WUXGA (1920x1200) OLED 400nits Glossy, 100% DCI-P3, DisplayHDR™ True Black 500 
@@ -686,21 +679,21 @@ SSD 512GB NVMe Gen 4 (↑1TB) | 14" WUXGA (1920x1200) OLED 400nits Glossy, 100% 
 > FHD 1080p + IR with Privacy Shutter, ToF Sensor > Stereo speakers, 2W x2, optimized with Dolby Audio™ 
 Rp13.299.000
 
-22. LENOVO LOQ 15AHP10-73ID Grey
+21. LENOVO LOQ 15AHP10-73ID Grey
 OHS (GAMING) (RTX 5050)
 AMD Hexa Core Ryzen 5 220 Up To 4,9 Ghz 6 Core 12 Threads | 16GB DDR5 (↑32GB) | SSD 512GB NVMe Gen 4 (↑1TB)
 15.6" FHD IPS 300nits Anti-glare, 100% sRGB, 144Hz, G-SYNC | RTX 5050 8GB (440 AI TOPS) | KB Backlight RGB | Wifi 6
 Numeric Pad | W11 + Office Home 2024 + Microsoft® 365 Basic 
 Rp17.199.000
 
-23. LENOVO LOQ 15AHP10-74ID Grey
+22. LENOVO LOQ 15AHP10-74ID Grey
 OHS (GAMING) (RTX 5050)
 AMD Octa Core Ryzen 7 250 Up To 5,1 Ghz 8 Core 16 Threads | 16GB DDR5 (↑32GB) | SSD 512GB NVMe Gen 4 (↑1TB)
 15.6" FHD IPS 300nits Anti-glare, 100% sRGB, 144Hz, G-SYNC | RTX 5050 8GB (440 AI TOPS) | KB Backlight RGB | Wifi 6
 Numeric Pad | W11 + Office Home 2024 + Microsoft® 365 Basic 
 Rp18.999.000
 
-24. LENOVO LEGION PRO 5 16ADR10-15ID Eclipse Black
+23. LENOVO LEGION PRO 5 16ADR10-15ID Eclipse Black
 OHS (GAMING) (RTX 5060) (OLED DISPLAY)
 AMD Octa Core Ryzen 7 8745HX Up To 5,1 Ghz 8 Core 16 Threads | 24GB DDR5 | SSD 1TB NVMe Gen 4 | 
 16" WQXGA (2560x1600) OLED 500nits Glossy, 100% DCI-P3, 165Hz, DisplayHDR™ True Black 1000, Dolby Vision®, G-SYNC®, 
@@ -838,77 +831,3 @@ AMD Octa Core Ryzen 9 8940HX Up To 5,3Ghz 16 Core 32 Threads | 24GB DDR5 | SSD 1
 16" QHD (2560x1600) IPS VRR 240Hz 500 nits | RTX 5070 8GB (798 AI TOPS) | KB Backlight RGB | Numeric Pad | Wifi 6 | 
 W11 + Office Home 2024 + M365 Basic
 Rp28.499.000
-
-LAPTOP MSI:
-1. MSI Modern 14-F13MG-296ID Grey
-OHS (Slim Design) 
-Core i5-1334U Up To 4,6Ghz 10 Core 12 Threads | 8GB DDR4 (↑16GB) | SSD 512GB NVMe (↑1TB) | 14' FHD IPS | 
-KB Backlight | Wifi 6E | W11 + Office Home & Student 2021
-Rp8.299.000
-
-2. MSI Modern 15-H-C2RMG-277ID Black
-OHS (Slim Design) 
-Core 7 240H Up To 5,2Ghz 10 Core 16 Threads | 16GB DDR4 (2x8) | SSD 512GB NVMe (↑1TB) 
-15,6" FHD IPS | Intel® UHD Graphics | KB Backlight | Wifi 6E | 
-W11 + Office Home & Student 2021 
-Rp10.799.000
-
-3. MSI Venture Pro 15-AI-A1UDXG-023ID Solid Grey 
-Gaming (RTX 3050)
-Core™ Ultra 5 125H Up To 4,5Ghz 14 Cores 18 Threads | 16GB DDR5 (2x8) | SSD 512GB NVMe Gen 4 (↑1TB) | 
-15.6" FHD IPS 144Hz | RTX 3050 - 6GB | KB Backlight | Wifi 6E | W11 + Office Home 2024
-Rp14.999.000
-
-4. MSI Prestige 13-AI+-A2VMG-076ID Black
-OHS (Ukiyoe Edition)
-Core™ Ultra 9 288V (Intel EVO) Up To 5,1Ghz 8 Cores 8 Threads (120 AI TOPS) | 32GB LPDDR5x | SSD 1TB NVMe Gen 4 
-13.3" 16:10, 2.8K (2880 x 1800) OLED panel, 100% DCI-P3 (Typ.) | Intel® Arc Graphics | 
-KB Backlight | Wifi 7 | W11 + Office Home 2024
-> Ultra-light 0.99 kg > IR 5MP type (30fps@1944p) with HDR & 3D Noise Reduction
-> 2x Thunderbolt™ 4 (DisplayPort™/ Power Delivery 3.0) > MIL-STD-810H/G
-Rp27.999.000
-
-5. MSI PRESTIGE 16-AI+-AMG-B2VMG-085ID Silver
-OHS (DESIGN Mercedes AMG )
-Core™ Ultra 9 288V (Intel EVO) Up To 5,1Ghz 8 Cores 8 Threads (120 AI TOPS) | 32GB LPDDR5x | SSD 1TB NVMe Gen 4 
- 16" UHD+ (3840 x 2400), 16:10, OLED, 100% DCI-P3 (Typical), VESA DisplayHDR™ True Black 600 | Intel® Arc Graphics | 
-KB Backlight | Wifi 7 | W11 + Office Home 2024
-> Ultra-light 1.5kg, Ultra-slim 18.95mm (Finger print-proof with Magnesium-Aluminum Alloy Chassis)
-> Up to 25hrs Battery life > Enterprise-Grade Security > Support USB PD 3.0 (Power Delivery) Charging
-Rp27.999.000
-
-6. MSI Thin 15-B13VE-2406ID Cosmos Grey 
-Gaming (RTX 4050) 
-Core i7-13620H Up To 4,9Ghz 10 Core 16 Threads | 16GB DDR4 (↑32GB) | SSD 512GB NVMe Gen 4 (↑1TB) | 
-15,6" FHD IPS 144hz | RTX 4050 - 6GB | KB Backlight Blue | Wifi 6E | W11
-Rp13.999.000
-
-7. MSI Cyborg 15-B2RWFKG-050ID Black
-Gaming OHS (RTX 5060) 
-Core 7 240H Up To 5,2Ghz 10 Core 16 Threads | 16GB DDR5 (2x8) (↑32GB) | SSD 512GB NVMe Gen 4 | 
-15.6" FHD IPS 144Hz | RTX 5060 8GB (572 AI TOPS) | KB Backlight RGB | Numeric Pad | Wifi 6E | 
-W11 + Office Home 2024
-Rp18.499.000
-
-8. MSI Katana 15-HX-B14WFK-092ID Black
-Gaming OHS (RTX 5060) 
-Core i7-14650HX Up To 5,2Ghz 16 Core 24 Threads | 16GB DDR5 (2x8) (↑32GB) | SSD 512GB NVMe Gen 4 | 
-15.6' QHD (2560*1440) IPS, 165Hz DCI-P3 100% typical | RTX 5060 8GB (572 AI TOPS) | KB Backlight RGB | 
-Numeric Pad | Wifi 6E | W11 + Office Home 2024
-> Free Speaker Soundbar JETE 23038 SM3 (intel)
-Rp20.999.000
-
-9. MSI Crosshair 16-HX-D7WFKG-049ID 
-Cosmos Grey
-Gaming OHS (RTX 5060)
-AMD Octa Core Ryzen 9 7945HX Up To 5,4Ghz 16 Core 32 Threads | 16GB DDR5 (↑32GB) | 
-SSD 512GB NVMe Gen 4 (↑1TB) (Free 1 slot) | 16" QHD+(2560 x 1600), 16:10 240Hz, 100% DCI-P3, IPS-level panel
-RTX 5060 8GB (572 AI TOPS) | KB Backlight RGB | Wifi 6E | W11 + Office Home 2024
-Rp22.999.000
-
-10. MSI Crosshair 16-HX-D7WGKG-047ID Cosmos Grey
-Gaming OHS (RTX 5070)
-AMD Octa Core Ryzen 9 7945HX Up To 5,4Ghz 16 Core 32 Threads | 16GB DDR5(2x8GB) (↑32GB) | 
-SSD 512GB NVMe Gen 4 (↑1TB) (Free 1 slot) | 16" 16:10 QHD+(2560 x 1600), 240Hz, 100% DCI-P3, IPS-level panel
-RTX 5070 - 8GB (798 AI TOPS) | KB Backlight RGB | Wifi 6E | W11 + Office Home 2024
-Rp24.999.000
