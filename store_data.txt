@@ -42,7 +42,7 @@ Apple M2 (CPU 8-Cores GPU 8-Cores) | 16GB | SSD 256GB NVMe | 13.6" QHD Retina Di
 500 Nit | KB Backlight | Magic Keyboard w/ Touch ID | Wifi 6 | 1080P Facetime HDCamera | Two Thunderbolt | 
 Force Touch Trackpad | Mac OS - Garansi Resmi
 Rp12.999.000
-Stock tersedia: 3
+
 
 2. Macbook Air 13 (16GB/256GB) Chip M4
 Apple M4 (CPU 10-Core, GPU 8-Core) | 16GB | SSD 256GB NVMe | 13,6" QHD Retina Display With True Tone 
@@ -50,7 +50,6 @@ Apple M4 (CPU 10-Core, GPU 8-Core) | 16GB | SSD 256GB NVMe | 13,6" QHD Retina Di
 Two Thunderbolt | Force Touch Trackpad | Mac OS - Garansi Resmi
 • FITUR AI • With battery life of up to 18 hours
 Rp15.999.000
-Stock tersedia: 5
 
 3. Macbook Air 13 (16GB/512GB) Chip M4
 Apple M4 (CPU 10-Core, GPU 10-Core) | 16GB | SSD 512GB NVMe | 13,6" QHD Retina Display With True Tone 
@@ -58,7 +57,6 @@ Apple M4 (CPU 10-Core, GPU 10-Core) | 16GB | SSD 512GB NVMe | 13,6" QHD Retina D
 Two Thunderbolt | Force Touch Trackpad | Mac OS - Garansi Resmi
 • FITUR AI • With battery life of up to 18 hours
 Rp19.499.000
-Stock tersedia: 10
 
 PRODUK ASUS:
 1. ASUS A1407QA-VIPSP151|2|3M
@@ -67,7 +65,6 @@ Snapdragon X1P-26-100 8 Core 8 Threads (NPU 45 AI TOPS) | 16GB LPDDR5X| SSD 512G
 14" WUXGA (1920 x 1200) IPS | KB Backlight | Fingerprint | Wifi 6E | 
 W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y) 
 Rp9.000.000
-Stock tersedia: 10
 
 2. ASUS Vivobook S S3407QA-IPSP151|2M
 OHS Grey|Silver (PROC SNAPDRAGON) 
@@ -75,7 +72,6 @@ Snapdragon® X X1 26 100 Up To 2,97Ghz 8 Cores 8 Threads (NPU 45 AI TOPS) | 16GB
 14" 2.5K (2560 x 1600) IPS 100% sRGB, | KB Backlight | Wi-Fi 6E | 
 W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y) 
 Rp10.000.000
-Stock tersedia: 8
 
 3. ASUS Zenbook A14 UX3407QA-IPSP151|2M
 Beige|Grey OHS + M365
@@ -83,7 +79,6 @@ Snapdragon® X X1 26 100 Up To 2,97Ghz 8 Cores 8 Threads (NPU 45 AI TOPS)| 16GB 
 14" WUXGA (1920 x 1200) IPS 400nits 100%sRGB | Qualcomm® Adreno™ GPU | 
 KB Backlight | W11 + Office Home & Student 2024 + M365 Basic (One Drive + Outlook) (1 Y) 
 Rp15.000.000
-Stock tersedia: 5
 
 4. ASUS Vivobook Flip TP3407SA-OLED5151M
 Mate Grey OHS + M365 (OLED DISPLAY) 
@@ -91,7 +86,6 @@ Core™ Ultra 5 226V Up To 4,5Ghz 8 Cores 8 Threads (97 AI TOPS) | 16GB LPDDR5 |
 14" FHD 16:10 OLED 500nits 100% DCI-P3 TouchScreen| Intel® Arc™ Graphics | KB Backlight | Stylush | Wifi 7 
 W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y) 
 Rp16.000.000
-Stock tersedia: 2
 
 5. ASUS Vivobook Flip TP3407SA-OLED7151M 
 Mate Grey OHS + M365 (OLED DISPLAY) 
@@ -99,7 +93,6 @@ Core™ Ultra 7 256V Up To 4,8Ghz 8 Cores 8 Threads (115 AI TOPS) | 16GB LPDDR5 
 14" FHD 16:10 OLED 500nits 100% DCI-P3 TouchScreen| Intel® Arc™ Graphics | KB Backlight | Stylush | Wifi 7 
 W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y) 
 Rp17.200.000
-Stock tersedia: 1
 
 6. ASUS E1404GA-FHD3821|23M
 Black|Silver OHS + M365 (256GB) 
@@ -107,7 +100,6 @@ Core i3-N305 Up To 3,8Ghz 8 Core 8 Threads | 8GB DDR4 | SSD 256GB (UFS) |
 14" FHD | KB Backlight | Fingerprint | 
 W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y) 
 Rp5.800.000
-Stock tersedia: 9
 
 7. ASUS E1404GA-FHD3851M
 Black OHS + M365 (512GB)
@@ -115,7 +107,6 @@ Core i3-N305 Up To 3,8Ghz 8 Core 8 Threads | 8GB DDR4 | SSD 512GB NVMe (↑1TB) 
 14" FHD | KB Backlight | Fingerprint | 
 W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y) 
 Rp6.300.000
-Stock tersedia: 4
 
 8. ASUS A1404VA-VIPS7153M
 Silver OHS + M365 
@@ -123,7 +114,6 @@ Core i7-1355U Up To 5,0Ghz 10 Core 12 Threads | 16GB DDR4 (2x8) | SSD 512GB NVMe
 14" FHD VIPS | Intel Iris XE | KB Backlight | Fingerprint | Wifi 6E | 
 W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y) 
 Rp11.000.000
-Stock tersedia: 7
 
 9. ASUS ExpertBook P1 P1403CVA-S65851WS
 Grey OHS
@@ -133,7 +123,6 @@ W11 + Office Home & Student 2024 + Mc Afee Premium Senilai Rp 599.000
 Light Weight 1,4kg • US MIL-STD 810H military-grade standard 
 Dual Slot SSD • Elegant Design • Dual Type C
 Rp8.800.000
-Stock tersedia: 6
 
 10. ASUS ExpertBook P1 P1403CVA-S67151WS
 Core i7-13620H Up To 4,9Ghz 10 Core 16 Threads | 16GB DDR5 | SSD 512GB NVMe Gen 4
@@ -142,7 +131,6 @@ W11 + Office Home & Student 2024 + Mc Afee Premium Senilai Rp 599.000
 • Light Weight 1,4kg • US MIL-STD 810H military-grade standard 
 • Dual Slot SSD • Elegant Design • Dual Type C
 Rp11.799.000
-Stock tersedia: 13
 
 11. ASUS Vivobook S S3407CA-VIPS5111|12M
 OHS Grey|Silver
@@ -152,7 +140,6 @@ W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 • 1.59 cm thin • 1.40 kg
 • with a dedicated Copilot key for instant AI assistance, revolutionizes your work and play
 Rp12.499.000
-Stock tersedia: 5
 
 12. ASUS Vivobook S S3407CA-VIPS7111|12M
 OHS Grey|Silver
@@ -161,7 +148,6 @@ Ultra 7 255H Up To 5,1Ghz 16 Core 16 Threads (96 AI TOPS) | 16GB DDR5 (↑32GB) 
 W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y) 
 • 1.59 cm thin • 1.40 kg • with a dedicated Copilot key for instant AI assistance, revolutionizes your work and play
 Rp14.999.000
-Stock tersedia: 5
 
 13. ASUS TUF Gaming F16 FX607VJB-I535J6M-HM
 Mecha Gray OHS + M365 (RTX 3050) 
@@ -172,7 +158,6 @@ W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 • Enhanced cooling with 2nd Gen Arc Flow Fans™ and a full-width heatsink
 > Dolby Vision and Dolby Atmos support for immersive content
 Rp13.999.000
-Stock tersedia: 7
 
 14. ASUS TUF Gaming F16 FX607VU-I545J6M-HM
 Mecha Gray OHS + M365 (RTX 4050) 
@@ -183,7 +168,6 @@ W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 • Enhanced cooling with 2nd Gen Arc Flow Fans™ and a full-width heatsink
 > Dolby Vision and Dolby Atmos support for immersive content
 Rp16.499.000
-Stock tersedia: 8
 
 15. ASUS TUF Gaming F16 FX607VU-I745J6M-HM
 Mecha Gray OHS + M365 (RTX 4050)
@@ -193,7 +177,6 @@ W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 • Enhanced cooling with 2nd Gen Arc Flow Fans™ and a full-width heatsink
 > Dolby Vision and Dolby Atmos support for immersive content
 Rp16.999.000
-Stock tersedia: 2
 
 16. ASUS TUF Gaming F16 FX608JHR-I7N55J6G-HM Gray 
 OHS + M365 (RTX 5050) 
@@ -203,7 +186,6 @@ W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 • Enhanced cooling with 2nd Gen Arc Flow Fans™ and a full-width heatsink
 > Dolby Vision and Dolby Atmos support for immersive content
 Rp.21.999.000
-Stock tersedia: 15
 
 17. ASUS ROG STRIX G - G614JU-I545J6G-HM
 Gray
@@ -214,7 +196,6 @@ W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 • Game with confidence with up to Tri-Fan Technology, full-surround vents and Conductonaut Extreme liquid metal 
 > Dolby Vision and Dolby Atmos support for immersive content
 Rp18.999.000
-Stock tersedia: 5
 
 18. ASUS ROG STRIX G - G615JHR-I7N55C6G-HM 
 Gray
@@ -225,7 +206,6 @@ KB Backlight RGB | Wifi 6E | W11 + Office Home 2024 + M365 Basic (One Drive + Ou
 • Game with confidence with up to Tri-Fan Technology, full-surround vents and Conductonaut Extreme liquid metal 
 > Dolby Vision and Dolby Atmos support for immersive content
 Rp25.999.000
-Stock tersedia: 3
 
 19. ASUS ROG STRIX G - G615LH-I7N55C6G-HM
 Gray
@@ -237,7 +217,6 @@ M365 Basic (One Drive + Outlook) (1 Y)
 • Game with confidence with up to Tri-Fan Technology, full-surround vents and Conductonaut Extreme liquid metal 
 > Dolby Vision and Dolby Atmos support for immersive content
 Rp26.999.000
-Stock tersedia: 3
 
 20. ASUS ROG STRIX G - G615LM-I9N56C6G-HM
 Gray 
@@ -248,7 +227,6 @@ KB Backlight RGB | Wifi 6E | W11 + Office Home 2024 + M365 Basic (One Drive + Ou
 • Game with confidence with up to Tri-Fan Technology, full-surround vents and Conductonaut Extreme liquid metal 
 > Dolby Vision and Dolby Atmos support for immersive content
 Rp33.999.000
-Stock tersedia: 2
 
 21. ASUS Vivobook S M3407HA-VIPS7111|12M
 Grey|Silver
@@ -257,7 +235,6 @@ AMD Octa Core Ryzen 7 260 Up To 5,1Ghz 8 Core 16 Threads (38 AI TOPS) | 16GB DDR
 14" WUXGA (1920 x 1200) IPS | AMD Radeon™ Graphics | KB Backlight | WIFI 6
  W11 + Office Home 2024 M365 Basic (One Drive + Outlook) (1 Y) 
 Rp13.299.000
-Stock tersedia: 1
 
 22. ASUS Vivobook S M3407KA-OLED7111|12M
 Grey|Silver
@@ -266,7 +243,6 @@ AMD Octa Core Ryzen AI 7 350 Up To 5 Ghz 8 Core 16 Threads (66 AI TOPS) | 16GB D
 14" WUXGA (1920 x 1200) OLED 95% DCI-P3 | AMD Radeon™ Graphics | KB Backlight | WIFI 6
  W11 + Office Home 2024 M365 Basic (One Drive + Outlook) (1 Y) 
  Rp14.999.000
- Stock tersedia: 3
 
 23. ASUS ExpertBook P3 PM3406CKA-NZ5150WS
 Grey
@@ -276,7 +252,6 @@ AMD Hexa Core Ryzen AI 5 330 Up To 4,8 Ghz 4 Core 8 Threads (56 AI TOPS) | 16GB 
  W11 + Office Home 2024 M365 Basic (One Drive + Outlook) (1 Y) + Mc Afee Premium Senilai Rp 599.000
 • The crisp 2.5K anti-glare display • dual-SSD3 expandability • ExpertCool thermal solution
 Rp11.999.000
-Stock tersedia: 5
 
 24. ASUS ProArt P16 H7606WM-OLEDS9311TM
 Nano Black 
@@ -286,7 +261,6 @@ SSD 1TB NVMe Gen 4 | 16.0" 3K (2880 x 1800) OLED 16:10 aspect ratio 0.2ms 120Hz 
 RTX 5060 8GB GDDR7 (572 AI TOPS) | KB Backlight | | Wi-Fi 7 | 
 W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 Rp36.999.000
-Stock tersedia: 5
 
 25. ASUS TUF Gaming A15 - FA506NCG-R735B6T-HM
 Graphite Black (RAM 16GB)
@@ -295,7 +269,6 @@ AMD Octa Core Ryzen 7 7445HS Up To 4,7Ghz 6 Core 12 Threads | 16GB DDR5 |
 SSD 512GB NVMe Gen 4 (↑1TB) | 15.6" FHD IPS 144Hz | RTX 3050 4GB | 
 KB Backlight RGB | Wifi 6E |W11 + Office Home & Student 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 Rp12.999.000
-Stock tersedia: 3
 
 26. ASUS TUF Gaming A16 - FA608UH-R7N55J6G-HM
 Jeager Grey
@@ -304,7 +277,6 @@ AMD Octa Core Ryzen 7 260 Up To 5,1Ghz 8 Core 16 Threads (38 AI TOPS) | 16GB DDR
 SSD 512GB NVMe Gen 4 | 16" WUXGA (1920 x 1200) 16:10 , IPS, 165hz, 100%sRGB | RTX 5050 8GB (440 AI TOPS) | 
 KB Backlight RGB | Wifi 6 |W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 Rp18.999.000
-Stock tersedia: 9
 
 27. ASUS TUF Gaming A16 - FA608PP-R9N57G6G-HM
 Jaeger Gray
@@ -314,7 +286,6 @@ SSD 1TB NVMe Gen 4 | 16" 2.5K IPS 165hz 100% sRGB G-Sync | RTX 5070 8GB (798 AI 
 KB Backlight | Wifi 6E |W11 + Office Home & Student 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 > Ultrathin 16.9mm metal chassis & ultralight 1.46kg gaming powerhouse
 Rp26.999.000
-Stock tersedia: 5
 
 28. ASUS ROG STRIX G - G614PH-R9N55C6G-HM
 Eclipse Gray 
@@ -326,7 +297,6 @@ RTX 5050 8GB (440 AI TOPS) | KB Backlight RGB | W11 + Office Home 2024 + M365 Ba
 performance.
 > Dolby Vision and Dolby Atmos support for a more immersive and cinematic content experience
 Rp24.999.000
-Stock tersedia: 2
 
 29. ASUS ROG FLOW Z13 - GZ302EA-RZA86N6G-HM
 Off Black 
@@ -339,7 +309,6 @@ W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 > Work and Play Anywhere: 13" CNC aluminum chassis with 70Wh battery
 > 13MP camera and 5MP IR camera > Light Weight 1,2kg
 Rp35.499.000
-Stock tersedia: 5
 
 30. ASUS ROG ZEPHYRUS G14 - GA403WM-R9N56OL6G-HM
 Eclipse Gray OHS + M365 
@@ -352,7 +321,6 @@ W11 + Office Home 2024 + M365 Basic (One Drive + Outlook) (1 Y)
 > 4-speaker (dual force woofer) system with Smart Amplifier Technology, 2 Tweeters 
 > Truly cool with Enhanced ROG Intelligent Cooling
 Rp38.999.000
-Stock tersedia: 3
 
 LAPTOP ACER:
 1. ACER Swift GO SFG14-01-X3BG Steel Grey
