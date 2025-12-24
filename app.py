@@ -115,7 +115,7 @@ def main():
     st.set_page_config(page_title="ELSBOT Chatbot", page_icon="💻")
 
     st.title("🖥️ ELS Chatbot")
-    st.write("Halo! Ada yang bisa saya bantu? 😊")
+    st.write("Halo! Saya siap membantu Anda mencari laptop sesuai kebutuhan Anda 😊")
 
     # Load model sekali
     if "model" not in st.session_state:
