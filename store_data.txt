@@ -1,11 +1,14 @@
 LOKASI TOKO:
 Jl. MH Thamrin No.45, Miroto, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134
 
+LINK GOOGLE MAPS TOKO:
+https://maps.app.goo.gl/eMHbqhsqGDLXdYzQ9
+
 JAM OPERASIONAL:
 Senin–Minggu : 08.30 - 21.30
 
 LAYANAN TOKO:
-- Penjualan laptop baru (ASUS, Acer, Lenovo, HP, MSI)
+- Penjualan laptop baru (Apple, ASUS, Acer, Lenovo, HP)
 - Service laptop (software & hardware)
 - Upgrade RAM, SSD, thermal paste
 - Instal ulang Windows resmi
