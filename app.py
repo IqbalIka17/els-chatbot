@@ -10,100 +10,53 @@ st.set_page_config(page_title="ELSBOT Chatbot", page_icon="💻")
 st.markdown("""
 <style>
 
-/* ===== BACKGROUND ===== */
-body {
-    background: radial-gradient(circle at top, #0f172a 0%, #020617 40%, #000000 100%);
-    color: white;
-}
-
-/* ===== CHAT CONTAINER ===== */
 .chat-container {
-    max-width: 760px;
+    max-width: 700px;
     margin: auto;
-    padding-bottom: 80px;
 }
 
-/* ===== QUICK BUTTON STYLE ===== */
-div[data-testid="column"] > div > button {
-    width: 100%;
-    padding: 14px 0;
-    border-radius: 14px;
-    border: 1px solid rgba(255,255,255,0.1);
-    background: linear-gradient(145deg, #0f172a, #020617);
-    color: white;
-    font-size: 15px;
-    font-weight: 500;
-    transition: all 0.25s ease;
-    box-shadow: 0 4px 18px rgba(0,0,0,0.4);
-}
-
-div[data-testid="column"] > div > button:hover {
-    transform: translateY(-2px) scale(1.02);
-    background: linear-gradient(145deg, #1e293b, #020617);
-    box-shadow: 0 8px 25px rgba(0,0,0,0.6);
-}
-
-/* ===== USER MESSAGE ===== */
+/* USER MESSAGE (KANAN) */
 .user-row {
     display: flex;
     justify-content: flex-end;
-    margin: 14px 0;
+    align-items: flex-end;
+    margin: 12px 0;
 }
 
 .user-bubble {
-    background: linear-gradient(135deg, #2563eb, #1d4ed8);
+    background-color: #007AFF;
     color: white;
-    padding: 12px 18px;
-    border-radius: 20px 20px 4px 20px;
-    max-width: 72%;
-    font-size: 15px;
-    line-height: 1.5;
-    box-shadow: 0 4px 15px rgba(37,99,235,0.35);
-    animation: fadeInUp 0.25s ease;
+    padding: 10px 15px;
+    border-radius: 18px;
+    max-width: 70%;
+    text-align: right;
+    font-size: 16px;
+    line-height: 1.4;
+    margin-right: 8px;
 }
 
-/* ===== BOT MESSAGE ===== */
+/* BOT MESSAGE (KIRI) */
 .bot-row {
     display: flex;
     justify-content: flex-start;
-    margin: 14px 0;
+    align-items: flex-end;
+    margin: 12px 0;
 }
 
 .bot-bubble {
-    background: linear-gradient(135deg, #f1f5f9, #e5e7eb);
-    color: #020617;
-    padding: 12px 18px;
-    border-radius: 20px 20px 20px 4px;
-    max-width: 72%;
-    font-size: 15px;
-    line-height: 1.5;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.25);
-    animation: fadeInUp 0.25s ease;
-}
-
-/* ===== INPUT BOX ===== */
-textarea, input {
-    border-radius: 14px !important;
-    background: #020617 !important;
-    color: white !important;
-    border: 1px solid rgba(255,255,255,0.1) !important;
-}
-
-/* ===== ANIMATION ===== */
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(8px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+    background-color: #E5E5EA;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 18px;
+    max-width: 70%;
+    text-align: left;
+    font-size: 16px;
+    line-height: 1.4;
+    margin-left: 8px;
 }
 
 </style>
 """, unsafe_allow_html=True)
-
 
 
 # ================================
