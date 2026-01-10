@@ -2,6 +2,8 @@ import streamlit as st
 import google.generativeai as genai
 import os
 
+st.set_page_config(page_title="ELSBOT Chatbot", page_icon="💻")
+
 # ================================
 # 1. CSS CUSTOM CHAT UI
 # ================================
@@ -117,8 +119,6 @@ def handle_quick_reply(text):
     st.rerun()
 
 def main():
-
-    st.set_page_config(page_title="ELSBOT Chatbot", page_icon="💻")
 
     st.title("🖥️ ELS Chatbot")
     st.write("Halo! Saya siap membantu mencari laptop sesuai kebutuhan Anda 😊")
