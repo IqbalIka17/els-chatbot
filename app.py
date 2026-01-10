@@ -110,12 +110,36 @@ def ask_gemini(prompt):
 # ================================
 # 5. MAIN UI
 # ================================
+def handle_quick_reply(text):
+    st.session_state.history.append({"role": "user", "msg": text})
+    reply = ask_gemini(text)
+    st.session_state.history.append({"role": "bot", "msg": reply})
+    st.rerun()
+
 def main():
 
     st.set_page_config(page_title="ELSBOT Chatbot", page_icon="💻")
 
     st.title("🖥️ ELS Chatbot")
     st.write("Halo! Saya siap membantu mencari laptop sesuai kebutuhan Anda 😊")
+
+    # =======================
+    # QUICK REPLY BUTTONS
+    # =======================
+    col1, col2, col3 = st.columns(3)
+
+    with col1:
+        if st.button("📍 Alamat Toko"):
+            handle_quick_reply("Di mana alamat toko?")
+
+    with col2:
+        if st.button("📞 Nomor Telepon"):
+            handle_quick_reply("Berapa nomor telepon toko?")
+
+    with col3:
+        if st.button("🕒 Jam Buka"):
+            handle_quick_reply("Jam operasional toko?")
+
 
     # Load model sekali
     if "model" not in st.session_state:
